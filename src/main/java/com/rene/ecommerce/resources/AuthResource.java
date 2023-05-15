@@ -31,7 +31,5 @@ public class AuthResource {
 		
 		return ResponseEntity.ok().build();
 	}
-	
-
 
 }
